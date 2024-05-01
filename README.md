@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @simonbinom
-- 👀 I’m interested in ham radio, coding, nerd stuff and more
-- 🌱 I’m currently learning Python & PowerShell
+- 👋 Hi, I’m Simon aka @simonbinom
+- 👀 I’m interested in ham radio, coding, photography, and all the other nerd stuff
+- 🌱 I’m currently learning Container technologies
 
 <!---
 simonbinom/simonbinom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
