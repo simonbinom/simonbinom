@@ -2,7 +2,7 @@
 
 I'm a Swiss-based IT professional with a strong background in IT infrastructure, engineering, leadership, and digital transformation. With 18 years of experience across aviation, education, logistics, retail, and media production, I'm currently building an innovation-focused team with a strong emphasis on **AI** and **cloud-native technologies**.
 
-![AF5BBBD7-182B-4047-866C-ACC04EEB69E0](https://github.com/user-attachments/assets/eced08d5-21f6-4bfe-a174-5937804b6738)
+![AF5BBBD7-182B-4047-866C-ACC04EEB69E0 (1)](https://github.com/user-attachments/assets/ba1ea025-9a01-4cd2-bbc1-5e237dfa3345)
 
 ---
 
