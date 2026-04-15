@@ -1,6 +1,6 @@
 # Hi, I'm Simon 👋
 
-I'm a Swiss-based IT professional with a strong background in IT infrastructure, (software-)engineering, leadership and digital transformation. With 18 years of experience across aviation, education, logistics, retail, and media production, I currently work at CMI and help our customers successfully implement our new KI+ product.
+I'm a Swiss-based IT professional with a strong background in IT infrastructure, (software-)engineering, leadership and digital transformation. With 18 years of experience across aviation, education, logistics, retail, and media production, I currently work at CMI and help our customers successfully implement our new KI+ product. I am also a IT and AI consultant, please check my [Website](https://www.simonbaeder.ch) for more information.
 
 ---
 
