@@ -14,10 +14,11 @@ I'm a Swiss-based IT professional with a strong background in IT infrastructure,
 
 ## 👨‍💻 Tech & Tools
 
-- 🧠 AI/ML | DevOps | Cloud | ITSM | Agile |
+- 🧠 AI/ML | DevOps | Cloud | Agile |
 - 🐳 Docker | Kubernetes (learning!) | Terraform (coming soon!)
 - 💻 Mac | VS Code | Linux (of course)
 - 📋 Powershell | Bash | Python (dabbling)
+- 🤖 Hermes Agent | Openclaw | Vibe Coding
 
 ---
 
@@ -30,7 +31,7 @@ I once debugged a network issue using only `ping`, a whiteboard, and sheer willp
 ## 👀 Interests
 
 - 📡 Ham radio (licensed & active - callsign HB3XDB)
-- 📸 Photography – Fujifilm fanboy
+- 📸 Photography – Nikon Z6iii
 - 🧑‍💻 Vibe Coding late at night
 - 🛠️ Automating everything that moves (and most things that don't normally)
 
@@ -38,7 +39,7 @@ I once debugged a network issue using only `ping`, a whiteboard, and sheer willp
 
 ## ❤️ About me
 
-- Proud dad of two little boys – my biggest source of chaos and inspiration
+- Proud dad of two boys – my biggest source of chaos and inspiration
 - Tech nerd with a heart for real-world impact
 - Believer in lifelong learning and collaborative growth
 
