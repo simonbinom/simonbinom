@@ -4,7 +4,7 @@ Swiss-based IT professional focused on AI, infrastructure, software engineering 
 18 years of experience across aviation, education, logistics, retail and media production.
 
 Currently **Forward Deployed AI Engineer** at CMI, helping customers successfully adopt our KI+ product.  
-Also independent AI consultant → [simonbaeder.ch](https://www.simonbaeder.ch)
+Also independent AI consultant → [www.simonbaeder.ch](https://www.simonbaeder.ch)
 
 ---
 
