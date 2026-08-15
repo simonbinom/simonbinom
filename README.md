@@ -1,48 +1,36 @@
 # Hi, I'm Simon 👋
 
-I'm a Swiss-based IT professional with a strong background in AI, IT infrastructure, (software-)engineering, leadership and digital transformation. With 18 years of experience across aviation, education, logistics, retail, and media production, I currently work at CMI and help our customers successfully implement our new KI+ product in my role as a Forward Deployed AI Engineer. I am also an IT and AI consultant, please check my [Website](https://www.simonbaeder.ch) for more information.
+Swiss-based IT professional focused on AI, infrastructure, software engineering and digital transformation.  
+18 years of experience across aviation, education, logistics, retail and media production.
+
+Currently **Forward Deployed AI Engineer** at CMI, helping customers successfully adopt our KI+ product.  
+Also independent AI consultant → [simonbaeder.ch](https://www.simonbaeder.ch)
 
 ---
 
-## 🚀 What I'm up to
+### 🚀 Currently
+- Exploring how AI reshapes building, working and thinking
+- Experimenting with whatever looks interesting
+- Looking for ways to connect technology, people and purpose
 
-- 🤖 Exploring AI/ML and how they reshape the way we build and think
-- 🧪 Experimenting with DevOps, Infrastructure as Code, and agentic AI
-- 🔭 Always scouting for ways to connect technology, people, and purpose
+### 🛠 Tech & Tools
+- **AI**: Hermes Agent · Claude Code · Grok · various AI harnesses
+- **Infra**: Docker · Mac · Linux
+- **Languages**: TypeScript · Python · Bash · PowerShell
 
----
+### ⚡ Fun fact
+Once debugged a network issue with nothing but `ping`, a whiteboard and sheer willpower.  
+Culprit: a rogue IoT coffee machine. ☕🛠️
 
-## 👨‍💻 Tech & Tools
+### 👀 Interests
+- Ham radio (licensed – HB3XDB)
+- Photography (Nikon Z6III)
+- Late-night vibe coding
+- Automating everything that moves (and most things that don’t)
 
-- 🧠 AI/ML | DevOps | Cloud | Agile |
-- 🐳 Docker | Kubernetes
-- 💻 Mac | VS Code | Linux (of course)
-- 📋 Powershell | Bash | Python (dabbling)
-- 🤖 Hermes Agent | Openclaw | Vibe Coding
+### ❤️ About me
+Proud dad of two boys – my biggest source of chaos and inspiration.  
+Tech nerd who cares about real-world impact.  
+Believer in lifelong learning and collaborative growth.
 
----
-
-## ⚡ Fun fact
-
-I once debugged a network issue using only `ping`, a whiteboard, and sheer willpower – turned out to be a rogue IoT coffee machine. ☕️🛠️
-
----
-
-## 👀 Interests
-
-- 📡 Ham radio (licensed & active - callsign HB3XDB)
-- 📸 Photography – Nikon Z6iii
-- 🧑‍💻 Vibe Coding late at night
-- 🛠️ Automating everything that moves (and most things that don't normally)
-
----
-
-## ❤️ About me
-
-- Proud dad of two boys – my biggest source of chaos and inspiration
-- Tech nerd with a heart for real-world impact
-- Believer in lifelong learning and collaborative growth
-
----
-
-> _Always learning. Always building. Always curious._
+> Always learning. Always building. Always curious.
